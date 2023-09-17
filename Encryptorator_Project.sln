@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Encryptorator_Project", "Encryptorator_Project\Encryptorator_Project.vcxproj", "{AFC716C8-A6D9-48EA-A689-A0A043C6DACC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFC716C8-A6D9-48EA-A689-A0A043C6DACC}.Debug|x64.ActiveCfg = Debug|x64
+		{AFC716C8-A6D9-48EA-A689-A0A043C6DACC}.Debug|x64.Build.0 = Debug|x64
+		{AFC716C8-A6D9-48EA-A689-A0A043C6DACC}.Debug|x86.ActiveCfg = Debug|Win32
+		{AFC716C8-A6D9-48EA-A689-A0A043C6DACC}.Debug|x86.Build.0 = Debug|Win32
+		{AFC716C8-A6D9-48EA-A689-A0A043C6DACC}.Release|x64.ActiveCfg = Release|x64
+		{AFC716C8-A6D9-48EA-A689-A0A043C6DACC}.Release|x64.Build.0 = Release|x64
+		{AFC716C8-A6D9-48EA-A689-A0A043C6DACC}.Release|x86.ActiveCfg = Release|Win32
+		{AFC716C8-A6D9-48EA-A689-A0A043C6DACC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33284950-07C9-4148-AA84-2951E16E6EF9}
+	EndGlobalSection
+EndGlobal
