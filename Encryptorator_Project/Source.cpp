@@ -44,6 +44,7 @@ int main() {
 	storer.open("decodedText.txt");
 	storer << decoded << endl;
 	storer.close();
+	cout << "github change test" << endl; 
 	
 }
 
