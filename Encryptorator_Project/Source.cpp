@@ -1,13 +1,13 @@
 
 
-/*Write a program that uses a map to assign “codes” to each letter of the alphabet.For
+/*Write a program that uses a map to assign â€œcodesâ€ to each letter of the alphabet.For
 example :
 map<char, char> codes =
 { {'A', '%'}, {'a', '9'}, {'B', '@'}, {'b', '#'}, etc ... };
-Using this example, the letter ‘A’ would be assigned the symbol%, the letter ‘a’ would
-be assigned the number 9, the letter ‘B’ would be assigned the symbol @, and so forth.
+Using this example, the letter â€˜Aâ€™ would be assigned the symbol%, the letter â€˜aâ€™ would
+be assigned the number 9, the letter â€˜Bâ€™ would be assigned the symbol @, and so forth.
 The program should open a specified text file, read its contents, then use the map to
-write an encrypted version of the file’s contents to a second file. Each character in
+write an encrypted version of the fileâ€™s contents to a second file. Each character in
 the second file should contain the code for the corresponding character in the first
 file. */
 
@@ -44,7 +44,7 @@ int main() {
 	storer.open("decodedText.txt");
 	storer << decoded << endl;
 	storer.close();
-	cout << "github change test" << endl; 
+	cout << "github to vs change test" << endl; 
 	
 }
 
